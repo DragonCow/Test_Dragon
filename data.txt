@@ -4,4 +4,8 @@ push//test
 
 pull//DragonCow
 
+<<<<<<< HEAD
 conflict//DragonCow
+=======
+confilct//test
+>>>>>>> 275e334aa334fbb6b1140a75bee7348813a968f7
