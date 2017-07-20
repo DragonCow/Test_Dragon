@@ -3,3 +3,5 @@ faasfsagag
 push//test
 
 pull//DragonCow
+
+conflict//DragonCow
